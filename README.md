@@ -290,4 +290,10 @@ Ahora ejecuta el script ClineteScript4.sh
 chmod 755 ClineteScript4.sh
 /ClineteScript4.sh
 ```
-y con eso tendras toda la configuracion necesaria.
+y con eso tendras toda la configuracion necesaria. Si quieres ver la guia completa o ir por los vagrant box, puedes encontrar la guia en el siguiente enlace 🔗 
+<a herf = "https://juanfelipest.atlassian.net/l/c/XvQvY3B1"> Guia Completa </a></br>
+Los vagrant box los encontraras en el enlace 🔗 </br>
+<a herf = "https://app.vagrantup.com/cfarinavalencia/"> Vagrant Boxes </a></br>
+También encontras un artículo sobre los balanceos de carga en servidores de bases de datos en el siguiente enlace 🔗 </br>
+<a herf = "https://juanfelipest.atlassian.net/l/c/qcwqwL4V"> Artículo </a></br>
+
